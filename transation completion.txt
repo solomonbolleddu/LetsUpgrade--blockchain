@@ -1,0 +1,37 @@
+status 	true Transaction mined and execution succeed
+ transaction hash 	0x3df16218eb76beb6f914e0094c6a2eb6ab36d4ba1aee3d4c37be3bf76f08d7b0
+ from 	0x518971a0EC7eE515D6bf9f707025fCB33F2ee159
+ to 	ReportCard.(constructor)
+ gas 	522781 gas 
+ transaction cost 	522781 gas 
+ hash 	0x3df16218eb76beb6f914e0094c6a2eb6ab36d4ba1aee3d4c37be3bf76f08d7b0
+ input 	0x606...00000
+ decoded input 	{
+	"string name": "solomon",
+	"uint256 roll": {
+		"_hex": "0x05ea"
+	},
+	"uint256 newMaths": {
+		"_hex": "0x55"
+	},
+	"uint256 newScience": {
+		"_hex": "0x4e"
+	},
+	"uint256 newEnglish": {
+		"_hex": "0x2d"
+	},
+	"uint256 newHistory": {
+		"_hex": "0x42"
+	}
+}
+ decoded output 	 - 
+ logs 	[]
+ value 	0 wei 
+>
+n
+
+
+
+
+transaction hash
+0x3df16218eb76beb6f914e0094c6a2eb6ab36d4ba1aee3d4c37be3bf76f08d7b0
